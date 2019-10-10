@@ -12,3 +12,4 @@ Group members:
 
 Assignments:
  - [Assignment 2](assignment2/assignment2.ipynb)
+ - [Assignment 3](assignment3/assignment3.ipynb)
